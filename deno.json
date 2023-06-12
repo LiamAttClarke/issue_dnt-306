@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "dnt/": "https://github.com/LiamAttClarke/dnt/raw/fix/test-runner-file-paths/",
+    "std/": "https://deno.land/std@0.189.0/",
+    "ya-svg-transform": "https://esm.sh/ya-svg-transform@0.0.3"
+  }
+}
+  
