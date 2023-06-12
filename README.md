@@ -11,7 +11,7 @@ deno run --allow-env --allow-read --allow-write --allow-net --allow-run ./build_
 
 ## Success Case
 
-Uncomment lines 18 and 19 in [](./build_npm.ts) and then run:
+Uncomment lines 18 and 19 in [build_npm.ts](./build_npm.ts) and then run:
 ```
 deno run --allow-env --allow-read --allow-write --allow-net --allow-run ./build_npm.ts
 ```
